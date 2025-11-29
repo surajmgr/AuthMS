@@ -19,8 +19,7 @@
 		TWITTER_CLIENT_ID,
 		TWITCH_CLIENT_ID,
 		OAUTH_TEMPLATES,
-		ENABLE_ANONYMOUS,
-		OAUTH_TEMPLATES
+		ENABLE_ANONYMOUS
 	} from '$lib/utils/publicConstants';
 	import { GithubIcon, Key } from '@lucide/svelte';
 	import SocialIcons from '../ui/SocialIcons.svelte';
